@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/1.tester/Bai lab/Automation/Lab7/LAB_7_SELENIUM">
+        <classes>
+            <class name="CaptureScreenshot"></class>
+        </classes>
+    </test>
+</suite>
